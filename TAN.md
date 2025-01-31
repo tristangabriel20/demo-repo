@@ -1,2 +1,2 @@
 # Demo
-Tristan Espiritu
+Tristan Gabriel N. Espiritu
